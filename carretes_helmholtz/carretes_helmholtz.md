@@ -40,6 +40,35 @@ Este caso es de gran interés ya que es común utilizar esta configuración en e
 
 ## 4. Posibles tareas
 
+### Calibración de la sonda de campo magnético
+
+Sea comprada o fabricada, antes de comenzar las mediciones de campo magnético la sonda debe calibrarse. Para ello se comparan una serie de valores de campo medidos en xxx con respecto a los valores que deberían obtenerse conocida la expresión teórica del campo en ese mismo punto
+
+### Obtención de una región de campo uniforme en la dirección del eje entre las bobinas
+
+Utilizando un par de bobinas se puede conseguir una región entre estas en las que el campo sea uniforme.
+
 ## 5. Posibles mejoras
 
+### Obtención de una región de campo uniforme en una dirección del plano
+
+Utilizando dos pares de bobinas cuyos ejes sean perpencilares entre sí se puede obtener un campo uniforme en cualquier dirección contenida en el plano que contiene los ejes de las bobinas
+
 ## 6. Necesidades y fabricación
+
+### Carretes
+
+#### Soporte
+
+El soporte debe:
+1. tener algún sistema o muesca que permita comenzar a enrollar la bobina,
+2. rígido para permitir la tensión de la bobina al enrollarla sin deformarse,
+3. de un material que soporte un cierto aumento de temperatura si por las bobinas circula más corriente de la deseada
+
+#### Bobina
+
+Idealmente, que puedan producir un campo elevado sin necesidad de una gran corriente. Calcular el campo en función del número de vueltas y la corriente, y elegir la galga del cable más adecuada
+
+### Sonda de campo magnético
+
+*ToDo*
