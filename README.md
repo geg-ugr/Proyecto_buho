@@ -38,6 +38,9 @@ adasdad
 
 #### **Líneas Equipotenciales y Líneas de Campo Eléctrico**
 
+#### [Carretes de Helmholtz](./carretes_helmholtz/carretes_helmholtz.md#carretes-de-helmholtz)
+
+
 ### Prácticas relacionadas con análisis de circuitos eléctricos
 
 #### **Instrumentación Básica. Ley de Ohm y Teorema de Thevenin**
