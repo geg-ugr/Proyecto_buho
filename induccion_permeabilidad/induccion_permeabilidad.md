@@ -149,4 +149,10 @@ En lugar de variar la señal de entrada, podemos mantener esta fija y variar las
 
 ## 6. Necesidades y fabricación
 
+### Soportes
+
+Los soportes para las bobinas pueden imprimirse con una impresora 3D convencional. El filamento debe ser un tipo que soporte la tensión al enrollar posteriormente el filamento, y los incrementos de temperatura que puedan ocurrir al circular corriente por las bobinas.
+
 ### Bobinas
+
+Se necesita hilo de cobre enamelado de una galga que permita dar las vueltas necesarias, admita la corriente necesaria, evite el efecto pelicular teniendo en cuenta la frecuencia a la que vamos a trabajar, y evita incrementar innecesariamente el peso de las bobinas.
