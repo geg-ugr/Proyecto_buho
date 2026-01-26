@@ -34,12 +34,11 @@ adasdad
 
 ### Prácticas relacionadas con la teoría electromagnética
 
-#### [Inducción Magnética y Permeabilidad Magnética del Vacío](./induccion_permeabilidad/induccion_permeabilidad.md)1
+#### [Inducción Magnética y Permeabilidad Magnética del Vacío](./induccion_permeabilidad/induccion_permeabilidad.md)
 
-#### **Líneas Equipotenciales y Líneas de Campo Eléctrico**
+#### [Líneas Equipotenciales y Líneas de Campo Eléctrico](./lineas_equipot_campo_elect/lineas_equipot_campo_elect.md)
 
 #### [Carretes de Helmholtz](./carretes_helmholtz/carretes_helmholtz.md#carretes-de-helmholtz)
-
 
 ### Prácticas relacionadas con análisis de circuitos eléctricos
 
