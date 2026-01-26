@@ -34,7 +34,7 @@ adasdad
 
 ### Prácticas relacionadas con la teoría electromagnética
 
-#### **Inducción Magnética y Permeabilidad Magnética del Vacío**
+#### [Inducción Magnética y Permeabilidad Magnética del Vacío](./induccion_permeabilidad/induccion_permeabilidad.md)1
 
 #### **Líneas Equipotenciales y Líneas de Campo Eléctrico**
 
